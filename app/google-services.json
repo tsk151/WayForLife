@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "946759708807",
+    "firebase_url": "https://wayforlife-2378f.firebaseio.com",
+    "project_id": "wayforlife-2378f",
+    "storage_bucket": "wayforlife-2378f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:946759708807:android:b7f9d79dd5d72887",
+        "android_client_info": {
+          "package_name": "com.example.wayforlife.wayforlife"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "946759708807-0p28s3h5skh78b1593o6kfahtpi9saif.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.wayforlife.wayforlife",
+            "certificate_hash": "db34affebab181f1fa81044cc578411c476bee45"
+          }
+        },
+        {
+          "client_id": "946759708807-6rqon7hd92b4vggki4idq7a2js3bthvl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAXeRFlZN83Q4LBero2CIq4U-hrpiE6e-0"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "946759708807-6rqon7hd92b4vggki4idq7a2js3bthvl.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

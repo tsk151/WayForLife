@@ -143,8 +143,18 @@
         >
     </Spinner>
 
-
-
+    <Button
+        android:id="@+id/sign_up"
+        android:layout_width="150dp"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/spinner_city"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="20dp"
+        android:background="@drawable/buttons"
+        android:text="Sign Up"
+        android:textColor="@android:color/white"
+        android:textSize="20sp"
+        android:textStyle="bold"/>
 
 
 
